@@ -17,6 +17,7 @@
       "Any sort of discrimination is not tolerated, this may result in a permanent removal on the first offense.",
       "Using derogatory terms such as, but not limited to the word “retard”, is a bannable offense.",
       "Attacking members in other Discord servers, YouTube, Twitter, etc. is prohibited and punishable."
+      "For Content Creators, failure to moderate your communities (For Example but not limited to, Attacking members), it may result in a ban."
     ]
   },
   {
@@ -56,7 +57,6 @@
       "Police, DOC & EMS are not allowed to be corrupt. An example of such would be giving away or selling equipment.",
       "Make sure you separate your characters. They do not know each other, they do not know where your weed location is, who your friends/enemies are, etc... Other characters you create are not your “cousin”",
       "Anything in Discord that starts with RP- is in character. I.e #rp-instagram. Anything posted there means evidence or subject for search and can be used as proof.",
-      "When you are incapacitated and taken to the hospital, revived by pressing E, you must not return to the RP scenario you were previously in for at least 60 mins.",
       "You are not allowed to have multiple characters that are affiliated with the same circle/gang. You must separate your RP.",
       "If a player has a camera on their character, they can use recordings as legal evidence, otherwise, they cannot.",
       "Serial Killers/Robots/Paranormal Characters, etc must be approved by the staff team via a Discord ticket.",
@@ -172,8 +172,8 @@
       "Separate groups cannot work together and hit different objectives together. Both groups must adhere to the respective timer.",
       "Prison Transports are considered a separate scenario than the original scenario that caused the arrest. You are allowed a new group of five when attacking the transport.",
       "Fake hostages are not allowed. You must plan robberies the correct way!",
-      "Fleeca, bank trucks, G6, Paleto Bank and the Pacific Standard Vault require you to have an in-depth robbery plan. An example of a not-so-in-depth robbery would be getting in a car and driving until you lose the cops. Be creative!",
-      "After commiting a store robbery/car boost, you must impose a self-cooldown of 45 mins, likewise... Vangelico and the Art Gallery are 90 Mins, Bank Trucks/Fleeca Robberies/Drug Runs are 120 Mins, Paleto Bank/Pacific Standard is 180 Mins, These cooldowns are not individual. For example, if you hit a Fleeca Bank, you cannot go rob a store right after. You must wait out the full cooldown before participating in any other robbery mentioned before.",
+      "Drug Runs, Fleeca, G6, Paleto Bank and the Pacific Standard Vault require you to have an in-depth robbery plan. An example of a not-so-in-depth robbery would be getting in a car and driving until you lose the cops. Be creative!",
+      "After commiting a store robbery/car boost, you must impose a self-cooldown of 45 mins, likewise... Vangelico  are 90 Mins, Fleeca Robberies/Drug Runs are 120 Mins, Paleto Bank/Pacific Standard is 180 Mins, These cooldowns are not individual. For example, if you hit a Fleeca Bank, you cannot go rob a store right after. You must wait out the full cooldown before participating in any other robbery mentioned before.",
       "Players are allowed to rob other players by either roleplaying it or by forcing them to raise their hands. There is no limit on how much money or items you can take from a single robbery.",
       "Scamming must be done in-game by roleplaying it. Scamming people through out-of-character channels is not allowed, this includes scamming someone by telling them the incorrect server command for personal gain.",
       "Any scams involving accessing any menus or teleporting (excusing the F2 inventory menu) is prohibited.",
@@ -219,9 +219,8 @@
     "link": "#new_life_rule",
     "isSubtitle": true,
     "rules": [
-      "New Life Rule: Triggered once you are incapacitated and respawn at the hospital, the cause of death is irrelevant. Getting yourself downed is not considered as dying, therefore once you get treated by EMS, the new life rule is not triggered. You lose all memory from the scenario if you respawn by using “E”.",
-      "After you are incapacitated, you cannot talk about your death through in-character channels unless an individual/party informs you through RP.",
-      "Once a player becomes incapacitated, they cannot come back to the area of their death for 30 minutes and they cannot take hostile action against the party responsible for their death for 60 minutes, they also lose every roleplay reason to take hostile action against the party responsible for their death.",
+      "New Life Rule: Triggered once you are incapacitated and respawn or are treated at the hospital, the cause of incapactation is irrelevant."
+      "Once a player becomes incapacitated, they cannot come back to the area of their death for 30 minutes and they cannot take hostile action against the party responsible for their death for 60 minutes.",
       "Another player is not able to decide when another permanently kills their character, this is decided upon OOC and once agreed they can commence with the scenario. You are allowed to plan out a scenario OOC if you decide on permaing your character.",
       "If you are downed in a scenario and it has ended, you are not allowed to return to the area of the scene to collect evidence, loot bodies, etc."
     ]
@@ -332,7 +331,8 @@
     "link": "#value_of_life",
     "isSubtitle": true,
     "rules": [
-      "Value Of Life: You must value your life similar to the way you do your own life in real life. For example, you must not engage in a gunfight for the fun of it, knowing that you would not do it IRL. At all times you must value your life as if it were your last. If you are at a clear disadvantage, for example, a gun pointed to the back of your head whilst you are looking the other direction, you must comply with their demands.",
+      "Value Of Life: At all times you must value your life as if you have only one.",
+      "If you are at a clear disadvantage, for example, a gun pointed to the back of your head whilst you are looking the other direction, you must comply with their demands.",
       "If you are outnumbered 3 to 1 you must comply. This does not mean that you do not have an option to try and escape. When possible and in a correct situation, you have the option to try and escape.",
       "A bad example of an attempt to escape is if you are being held hostage in front of a bank and decide to run away even though the person has a firearm ready."
     ]
