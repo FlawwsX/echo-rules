@@ -136,11 +136,13 @@
     "isSubtitle": true,
     "rules": [
       "Players should use the Discord ticketing system to report players, whether it be a past or present incident.",
+      "Using /report is not a replacement for the ticketing system.  Ensure that you are still using the ticket system when you are out of roleplay.",
       "All necessary information and evidence must be given with the report.",
       "Please allow up to a week for your report to be processed, though the usual turnaround is 24 hours.",
       "If a player thinks that a staff member is abusing their powers, the player may submit a player report using a Discord Ticket.",
       "Personally messaging a staff member will not result in a satisfactory response, you may be ignored or forwarded to a ticket.",
       "Staff members can request players to halt all actions in a roleplay situation if the server rules have been or are currently being broken. This is done through a Discord ticket."
+
     ]
   },
   {
@@ -159,7 +161,8 @@
       "All information for gangs and on how to apply can be found in the Gang Handbook: https://gangbook.echorp.net",
       "You cannot sit idle at delivery, start, etc... spots when taxing",
       "To identify/catch people doing the job which you tax for, you must put in a considerate amount of effort and provide a high quality Roleplay experience for all parties involved. An example of not doing this is pulling up to a van aiming guns out of your car asking them to pay.",
-      "At any time, staff can revoke taxing for a specific job if the overall reward made from taxing an absurd amount."
+      "At any time, staff can revoke taxing for a specific job if the overall reward made from taxing an absurd amount.",
+      "You may not use gang specific clothing, flags, or liveries that you would not realistically be able to acquire unless they have been obtained through roleplay."
     ]
   },
   {
