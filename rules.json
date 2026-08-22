@@ -43,7 +43,7 @@
       },
       {
         "title": "Community platforms.",
-        "text": "Any community Discord servers or platforms created primarily for EchoRP players must follow EchoRP's community rules. Staff may request access when investigating reports involving EchoRP and may require reasonable cooperation."
+        "text": "Any community Discord servers, or platforms created primarily for EchoRP players must follow EchoRP's community rules. Staff may request access when investigating reports involving EchoRP and may require reasonable cooperation."
       },
       {
         "title": "No spam.",
@@ -63,12 +63,12 @@
       },
       {
         "title": "No stream sniping.",
-        "text": "While in the server, you are not permitted to appear in livestreams (e.g., Discord, Twitch, Kick, YouTube, etc.) of other players who are also in the server."
+        "text": "While in the server, you are not permitted to appear in livestreams (e.g., Discord, Twitch, Kick, YouTube, etc) of other players who are also in the server."
       }
     ]
   },
   {
-    "title": "Accounts & Characters",
+    "title": "Accounts and Characters",
     "link": "#accounts",
     "isSubtitle": false,
     "summary": "Your account is yours alone. Keep characters separate and believable.",
@@ -92,7 +92,7 @@
         "title": "Believable concepts.",
         "text": "Character concepts must be believable and appropriate for the server setting. Any unique, unusual, or supernatural character concepts must be grounded in realistic roleplay and have a reasonable in-character explanation so that they do not force immersion-breaking interactions on others.",
         "sub": [
-          "This includes the roleplaying of animal characters, which must behave in a manner consistent with the animal they are portraying and may not participate in activities that would be unrealistic for that animal."
+          "This includes the roleplaying of animal characters - which must behave in a manner consistent with the animal they are portraying and may not participate in activities that would be unrealistic for that animal."
         ]
       },
       {
@@ -101,7 +101,7 @@
       },
       {
         "title": "No government corruption.",
-        "text": "Characters employed by a government entity (such as SASP, DOJ, EMS, COC, etc.) are strictly prohibited from engaging in any form of serious corruption or abuse of their position for personal or criminal benefit. This includes providing, selling, or misusing department resources, equipment, information, or authority for personal gain or to benefit others."
+        "text": "Characters employed by a government entity (such as SASP, DOJ, EMS, COC, etc) are strictly prohibited from engaging in any form of serious corruption or abuse of their position for personal or criminal benefit. This includes providing, selling, or misusing department resources, equipment, information, or authority for personal gain or to benefit others."
       }
     ]
   },
@@ -148,7 +148,7 @@
         "title": "Engage in good faith.",
         "text": "Players are expected to actively participate and engage in roleplay with other players in good faith. Avoid intentionally ignoring, refusing, or shutting down reasonable roleplay opportunities without a believable in-character reason. Players should look for reasons to continue roleplay, not reasons to end it.",
         "sub": [
-          "That being said, players should not involve themselves in active scenarios without a believable in-character reason. Third-party involvement should add to the roleplay rather than disrupt it."
+          "That being said- players should not involve themselves in active scenarios without a believable in-character reason. Third-party involvement should add to the roleplay rather than disrupt it."
         ]
       },
       {
@@ -157,11 +157,11 @@
       },
       {
         "title": "Low Quality Roleplay (LQRP).",
-        "text": "Staff may take action against Low Quality Roleplay (LQRP), defined as roleplay that is intentionally unrealistic, disruptive, or primarily focused on gaining an advantage at the expense of believable and enjoyable roleplay. It can also be intentionally disruptive or disrespectful behavior that harms the experience of others rather than creating meaningful interactions."
+        "text": "Staff may take action against Low Quality Roleplay (LQRP), defined as roleplay that is intentionally unrealistic, disruptive, or primarily focused on gaining an advantage at the expense of believable and enjoyable roleplay. It can also be intentionally disruptive or disrespectful behavior that harms the experience of others rather than create meaningful interactions."
       },
       {
         "title": "Keep OOC out.",
-        "text": "Out-of-character communication must not be used at all during active roleplay; you need to keep it separate. Do not discuss OOC information, use coded language to bypass this rule, or otherwise break immersion during active roleplay."
+        "text": "Out-of-character communication must not be used at all during active roleplay, you need to keep it separate. Do not discuss OOC information, use coded language to bypass this rule, or otherwise break immersion during active roleplay."
       }
     ]
   },
@@ -173,11 +173,11 @@
     "rules": [
       {
         "title": "Escalate believably.",
-        "text": "Combat must be supported by believable in-character roleplay and violence should be a natural outcome of the situation, not the starting point. Players should create opportunities for interaction before resorting to force, and the escalation from a scenario should be reasonable."
+        "text": "Combat must be supported by believable in-character roleplay and violence should be a natural outcome of the situation, not the starting point! Players should create opportunities for interaction before resorting to force, and the escalation from a scenario should be reasonable."
       },
       {
         "title": "Fight realistically.",
-        "text": "Do not abuse vehicles, game mechanics, animations, camera systems, or other mechanics to gain an unfair advantage or bypass roleplay."
+        "text": "Fight realistically. Do not abuse vehicles, game mechanics, animations, camera systems, or other mechanics to gain an unfair advantage or bypass roleplay."
       },
       {
         "title": "No combat logging.",
@@ -192,11 +192,11 @@
         "stats": [
           {
             "value": "30 MIN",
-            "text": "Characters treated at the hospital or who respawn after being incapacitated may not return to the same scene or rejoin the same conflict. This includes returning to recover equipment, loot bodies, gather evidence, or continue the conflict."
+            "text": "New Life Rule (NLR) expectations: Characters treated at the hospital or who respawn after being incapacitated may not return to the same scene or rejoin the same conflict for 30 minutes. This includes returning to recover equipment, loot bodies, gather evidence, or continue the conflict."
           },
           {
             "value": "60 MIN",
-            "text": "Combat cooldown, regardless of the scenario type. If an independent party is on cooldown, it also applies to any individual or group retaliating on their behalf."
+            "text": "Regardless of the scenario type, there is a 60 minute combat cooldown. If an independent party is on cooldown, it also applies to any individual or group retaliating on their behalf."
           }
         ],
         "text": "You may retain your memories, unless you choose not to via roleplay."
@@ -204,7 +204,7 @@
     ]
   },
   {
-    "title": "Criminal Roleplay",
+    "title": "Criminal Roleplay Expectations",
     "link": "#criminal",
     "isSubtitle": false,
     "summary": "Believable scenarios over quick profits. Max 5 participants, real hostages.",
@@ -245,7 +245,7 @@
       },
       {
         "title": "Restart windows.",
-        "text": "Players must not commit any form of crime (including selling drugs, robbing other players, shooting weapons, etc.) within the 30 minutes before and after a server restart.",
+        "text": "Players must not commit any form of crime (including selling drugs, robbing other players, and shooting weapons, etc) within the 30 minutes before and after a server restart.",
         "sub": [
           "In the event of an unscheduled server restart or server crash, you must wait for a period of 15 minutes before engaging in any criminal activities."
         ]
